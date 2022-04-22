@@ -1,0 +1,15 @@
+sklearn
+numpy
+scipy
+gym
+joblib
+dill
+progressbar2
+mpi4py
+networkx
+tqdm
+keras
+pandas
+statsmodels
+tensorflow==1.15
+matplotlib
